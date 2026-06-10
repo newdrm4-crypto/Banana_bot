@@ -370,7 +370,7 @@ async def drm_handler(bot: Client, m: Message):
                     keys_string = ""
 
             elif "d1d34p8vz63oiq" in url or "sec1.pw.live" in url:
-                url = f"https://anonymouspwplayer-ce3f42358cca.herokuapp.com/pw?url={url}&token={pwtoken}"
+                url = f"https://anonymouspwplayerrr-31d6706c7a3b.herokuapp.com/pw?url={url}&token={pwtoken}"
                 keys_string = ""
                                       
             elif 'encrypted.m' in url:
